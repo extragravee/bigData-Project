@@ -1,0 +1,8 @@
+db_string: USER/PASSWORD@DB_HOST:1521/DB_NAME
+raw_output_file: data/raw_output.txt
+df_output_file: data/df_output.csv
+df_depthreport: data/df_output_depth_report.csv
+spud_raw_file: data/spud_raw.txt
+#Set this to true if the raw data is needed
+raw_data_needed: true
+
