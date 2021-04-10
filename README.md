@@ -2,7 +2,7 @@ BigData Project
 ===============
 The work I did during my UniMelb internship - data analytics. I analysed how each subject used the Learning management system over time, in particular what types of files were uploaded, and how deep their folders were. This was done to get an approximation of how much of a use the subject made of the online LMS tool.
 
-I learned object oriented python, and used my skills to:
+This is the first time I coded in object oriented python (previously I made a game using object oriented java, and did a decent bit of data work and scripting in python, but never used python 3 in a proper object oriented way until now). This I did are:
 
 1. Query data from an oracle data script
 1. Wrangle, regine, complete and store data efficiently in python
